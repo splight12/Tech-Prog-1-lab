@@ -1,0 +1,14 @@
+{
+    "system": "Windows",
+    "python_version": "3.14.7",
+    "user": "Alex",
+    "architecture": "64bit",
+    "remote_ip": "138.249.91.1",
+    "win_build": "10.0.26100",
+    "system_drive": "C:",
+    "running_services": 122,
+    "pagefile_total_gb": 2.38,
+    "all users": [
+        "Alex"
+    ]
+}
